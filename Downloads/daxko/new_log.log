@@ -1,0 +1,241 @@
+2024-10-25 12:43:45,013 - INFO - Starting process...
+2024-10-25 12:43:45,013 - INFO - Attempting authentication...
+2024-10-25 12:43:45,773 - INFO - Authentication successful.
+2024-10-25 12:43:45,773 - INFO - Listing files in prefix 'FirstCreditPaymentByItem' starting after 'FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-25-2024'...
+2024-10-25 12:43:47,406 - INFO - Found 68 files in prefix 'FirstCreditPaymentByItem' after 'FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-25-2024'.
+2024-10-25 12:43:47,407 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-25-2024-000004.csv Last Modified: 2024-10-25T04:03:34+00:00
+2024-10-25 12:43:47,407 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-26-2023-000004.csv Last Modified: 2023-10-26T04:05:35+00:00
+2024-10-25 12:43:47,414 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-27-2023-000000.csv Last Modified: 2023-10-27T04:01:45+00:00
+2024-10-25 12:43:47,414 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-28-2023-000325.csv Last Modified: 2023-10-28T04:04:54+00:00
+2024-10-25 12:43:47,414 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-29-2023-000037.csv Last Modified: 2023-10-29T04:01:25+00:00
+2024-10-25 12:43:47,414 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-30-2023-000021.csv Last Modified: 2023-10-30T04:06:31+00:00
+2024-10-25 12:43:47,414 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-31-2023-000334.csv Last Modified: 2023-10-31T04:08:05+00:00
+2024-10-25 12:43:47,414 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-01-2023-000421.csv Last Modified: 2023-11-01T04:06:43+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-02-2023-000326.csv Last Modified: 2023-11-02T04:07:48+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-03-2023-000330.csv Last Modified: 2023-11-03T04:07:03+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-04-2023-000003.csv Last Modified: 2023-11-04T04:05:47+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-05-2023-000103.csv Last Modified: 2023-11-05T04:01:50+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-06-2023-000401.csv Last Modified: 2023-11-06T05:08:21+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-07-2023-000026.csv Last Modified: 2023-11-07T05:05:39+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-08-2023-000041.csv Last Modified: 2023-11-08T05:03:11+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-09-2023-000013.csv Last Modified: 2023-11-09T05:04:31+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-10-2023-000027.csv Last Modified: 2023-11-10T05:04:32+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-11-2023-000336.csv Last Modified: 2023-11-11T05:06:15+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-12-2023-000333.csv Last Modified: 2023-11-12T05:05:53+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-13-2023-000055.csv Last Modified: 2023-11-13T05:03:09+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-14-2023-000045.csv Last Modified: 2023-11-14T05:04:36+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-15-2023-000133.csv Last Modified: 2023-11-15T05:03:53+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-16-2023-000206.csv Last Modified: 2023-11-16T05:03:03+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-17-2023-000030.csv Last Modified: 2023-11-17T05:04:30+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-18-2023-000340.csv Last Modified: 2023-11-18T05:09:30+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-19-2023-000315.csv Last Modified: 2023-11-19T05:05:11+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-20-2023-000022.csv Last Modified: 2023-11-20T05:02:53+00:00
+2024-10-25 12:43:47,415 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-21-2023-011059.csv Last Modified: 2023-11-21T06:16:30+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-22-2023-000122.csv Last Modified: 2023-11-22T05:05:18+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-23-2023-000344.csv Last Modified: 2023-11-23T05:04:33+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-24-2023-000024.csv Last Modified: 2023-11-24T05:01:42+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-25-2023-000019.csv Last Modified: 2023-11-25T05:02:44+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-26-2023-000400.csv Last Modified: 2023-11-26T05:09:27+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-27-2023-000006.csv Last Modified: 2023-11-27T05:05:21+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-28-2023-000014.csv Last Modified: 2023-11-28T05:02:43+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-29-2023-011706.csv Last Modified: 2023-11-29T06:23:13+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-30-2023-000045.csv Last Modified: 2023-11-30T05:05:05+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-01-2023-000048.csv Last Modified: 2023-12-01T05:01:48+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-02-2023-000117.csv Last Modified: 2023-12-02T05:05:42+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-03-2023-000319.csv Last Modified: 2023-12-03T05:07:43+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-04-2023-000152.csv Last Modified: 2023-12-04T05:03:28+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-05-2023-000439.csv Last Modified: 2023-12-05T05:08:28+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-06-2023-000131.csv Last Modified: 2023-12-06T05:02:31+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-07-2023-000312.csv Last Modified: 2023-12-07T05:07:49+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-08-2023-000327.csv Last Modified: 2023-12-08T05:04:20+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-09-2023-000003.csv Last Modified: 2023-12-09T05:02:07+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-10-2023-000020.csv Last Modified: 2023-12-10T05:02:13+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-11-2023-000052.csv Last Modified: 2023-12-11T05:06:33+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-12-2023-000002.csv Last Modified: 2023-12-12T05:01:18+00:00
+2024-10-25 12:43:47,416 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-13-2023-000003.csv Last Modified: 2023-12-13T05:01:19+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-14-2023-000006.csv Last Modified: 2023-12-14T05:01:42+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-15-2023-000005.csv Last Modified: 2023-12-15T05:04:31+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-16-2023-000038.csv Last Modified: 2023-12-16T05:02:43+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-17-2023-000724.csv Last Modified: 2023-12-17T05:12:35+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-18-2023-000400.csv Last Modified: 2023-12-18T05:11:52+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-19-2023-000109.csv Last Modified: 2023-12-19T05:02:05+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-20-2023-000032.csv Last Modified: 2023-12-20T05:02:46+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-21-2023-000325.csv Last Modified: 2023-12-21T05:08:44+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-22-2023-000446.csv Last Modified: 2023-12-22T05:07:02+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-23-2023-000009.csv Last Modified: 2023-12-23T05:05:19+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-24-2023-000019.csv Last Modified: 2023-12-24T05:04:10+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-25-2023-000028.csv Last Modified: 2023-12-25T05:05:39+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-26-2023-000029.csv Last Modified: 2023-12-26T05:05:37+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-27-2023-000002.csv Last Modified: 2023-12-27T05:04:42+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-28-2023-000011.csv Last Modified: 2023-12-28T05:04:55+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-29-2023-000010.csv Last Modified: 2023-12-29T05:04:41+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-30-2023-000009.csv Last Modified: 2023-12-30T05:05:54+00:00
+2024-10-25 12:43:47,417 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-12-31-2023-000015.csv Last Modified: 2023-12-31T05:01:41+00:00
+2024-10-25 12:43:47,418 - INFO - Processing today's file: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-25-2024-000004.csv
+2024-10-25 12:43:47,418 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-25-2024-000004.csv...
+2024-10-25 12:43:47,971 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-25-2024-000004.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968216&Signature=tl8Z8lY6z6I%2FrKtOJ0%2FKDIdlYkI%3D...
+2024-10-25 12:43:51,058 - INFO - File downloaded: FirstCreditPaymentByItem-10-25-2024-000004.csv
+2024-10-25 12:47:04,629 - INFO - Starting process...
+2024-10-25 12:47:04,630 - INFO - Attempting authentication...
+2024-10-25 12:47:05,529 - INFO - Authentication successful.
+2024-10-25 12:47:05,529 - INFO - Listing files in prefix 'FirstCreditPaymentByItem' starting after 'FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-10-2024'...
+2024-10-25 12:47:05,999 - INFO - Found 100 files in prefix 'FirstCreditPaymentByItem' after 'FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-10-2024'.
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-10-2024-001337.csv Last Modified: 2024-08-10T04:19:59+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-11-2024-000026.csv Last Modified: 2024-08-11T04:05:02+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-12-2024-000233.csv Last Modified: 2024-08-12T04:08:35+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-13-2024-000124.csv Last Modified: 2024-08-13T04:07:24+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-14-2024-000843.csv Last Modified: 2024-08-14T04:14:12+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-15-2024-001049.csv Last Modified: 2024-08-15T04:15:48+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-16-2024-001210.csv Last Modified: 2024-08-16T04:17:40+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-17-2024-000003.csv Last Modified: 2024-08-17T04:05:32+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-18-2024-000009.csv Last Modified: 2024-08-18T04:01:53+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-19-2024-000043.csv Last Modified: 2024-08-19T04:05:34+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-20-2024-000021.csv Last Modified: 2024-08-20T04:02:57+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-21-2024-002047.csv Last Modified: 2024-08-21T04:26:17+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-22-2024-002152.csv Last Modified: 2024-08-22T04:27:22+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-23-2024-002213.csv Last Modified: 2024-08-23T04:27:41+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-24-2024-000038.csv Last Modified: 2024-08-24T04:06:07+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-25-2024-000201.csv Last Modified: 2024-08-25T04:04:47+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-26-2024-002207.csv Last Modified: 2024-08-26T04:29:06+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-27-2024-000023.csv Last Modified: 2024-08-27T04:06:13+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-28-2024-000124.csv Last Modified: 2024-08-28T04:04:49+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-29-2024-000003.csv Last Modified: 2024-08-29T04:04:26+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-30-2024-000041.csv Last Modified: 2024-08-30T04:04:34+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-31-2024-000059.csv Last Modified: 2024-08-31T04:05:50+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-01-2024-000026.csv Last Modified: 2024-09-01T04:04:52+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-02-2024-000055.csv Last Modified: 2024-09-02T04:05:47+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-03-2024-000049.csv Last Modified: 2024-09-03T04:05:14+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-04-2024-000043.csv Last Modified: 2024-09-04T04:04:59+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-05-2024-000023.csv Last Modified: 2024-09-05T04:03:27+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-06-2024-000619.csv Last Modified: 2024-09-06T04:11:06+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-07-2024-000048.csv Last Modified: 2024-09-07T04:06:27+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-08-2024-000021.csv Last Modified: 2024-09-08T04:02:00+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-09-2024-000031.csv Last Modified: 2024-09-09T04:02:45+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-10-2024-000002.csv Last Modified: 2024-09-10T04:02:11+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-11-2024-000033.csv Last Modified: 2024-09-11T04:02:25+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-12-2024-000112.csv Last Modified: 2024-09-12T04:02:14+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-13-2024-000035.csv Last Modified: 2024-09-13T04:02:43+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-14-2024-000035.csv Last Modified: 2024-09-14T04:05:39+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-15-2024-000010.csv Last Modified: 2024-09-15T04:02:01+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-16-2024-000008.csv Last Modified: 2024-09-16T04:07:01+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-17-2024-000204.csv Last Modified: 2024-09-17T04:02:49+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-18-2024-000008.csv Last Modified: 2024-09-18T04:02:54+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-19-2024-000020.csv Last Modified: 2024-09-19T04:02:40+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-20-2024-000023.csv Last Modified: 2024-09-20T04:03:15+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-21-2024-000040.csv Last Modified: 2024-09-21T04:04:07+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-22-2024-000134.csv Last Modified: 2024-09-22T04:02:12+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-23-2024-000005.csv Last Modified: 2024-09-23T04:03:46+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-24-2024-000437.csv Last Modified: 2024-09-24T04:05:23+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-25-2024-000100.csv Last Modified: 2024-09-25T04:02:30+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-26-2024-000030.csv Last Modified: 2024-09-26T04:07:36+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-27-2024-000555.csv Last Modified: 2024-09-27T04:06:40+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-28-2024-000426.csv Last Modified: 2024-09-28T04:05:55+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-29-2024-000102.csv Last Modified: 2024-09-29T04:02:37+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-09-30-2024-000103.csv Last Modified: 2024-09-30T04:02:40+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-01-2024-000037.csv Last Modified: 2024-10-01T04:03:22+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-02-2024-000144.csv Last Modified: 2024-10-02T04:03:42+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-03-2024-000025.csv Last Modified: 2024-10-03T04:02:40+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-04-2024-000039.csv Last Modified: 2024-10-04T04:02:25+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-05-2024-000004.csv Last Modified: 2024-10-05T04:03:02+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-06-2024-000005.csv Last Modified: 2024-10-06T04:01:59+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-07-2024-000126.csv Last Modified: 2024-10-07T04:05:50+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-08-2024-000706.csv Last Modified: 2024-10-08T04:07:46+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-09-2024-000016.csv Last Modified: 2024-10-09T04:05:01+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-10-2024-000038.csv Last Modified: 2024-10-10T04:05:12+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-11-2024-000029.csv Last Modified: 2024-10-11T04:05:14+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-12-2024-000059.csv Last Modified: 2024-10-12T04:03:00+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-13-2024-000051.csv Last Modified: 2024-10-13T04:02:26+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-14-2024-000014.csv Last Modified: 2024-10-14T04:02:29+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-15-2024-001120.csv Last Modified: 2024-10-15T04:12:00+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-16-2024-000051.csv Last Modified: 2024-10-16T04:06:34+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-17-2024-000003.csv Last Modified: 2024-10-17T04:05:05+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-18-2024-000104.csv Last Modified: 2024-10-18T04:05:48+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-19-2024-000029.csv Last Modified: 2024-10-19T04:07:45+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-20-2024-000040.csv Last Modified: 2024-10-20T04:04:33+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-21-2024-000013.csv Last Modified: 2024-10-21T04:07:04+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-22-2024-000009.csv Last Modified: 2024-10-22T04:05:05+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-23-2024-000153.csv Last Modified: 2024-10-23T04:02:37+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-24-2024-000156.csv Last Modified: 2024-10-24T04:02:44+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-25-2024-000004.csv Last Modified: 2024-10-25T04:03:34+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-26-2023-000004.csv Last Modified: 2023-10-26T04:05:35+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-27-2023-000000.csv Last Modified: 2023-10-27T04:01:45+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-28-2023-000325.csv Last Modified: 2023-10-28T04:04:54+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-29-2023-000037.csv Last Modified: 2023-10-29T04:01:25+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-30-2023-000021.csv Last Modified: 2023-10-30T04:06:31+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-10-31-2023-000334.csv Last Modified: 2023-10-31T04:08:05+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-01-2023-000421.csv Last Modified: 2023-11-01T04:06:43+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-02-2023-000326.csv Last Modified: 2023-11-02T04:07:48+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-03-2023-000330.csv Last Modified: 2023-11-03T04:07:03+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-04-2023-000003.csv Last Modified: 2023-11-04T04:05:47+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-05-2023-000103.csv Last Modified: 2023-11-05T04:01:50+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-06-2023-000401.csv Last Modified: 2023-11-06T05:08:21+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-07-2023-000026.csv Last Modified: 2023-11-07T05:05:39+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-08-2023-000041.csv Last Modified: 2023-11-08T05:03:11+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-09-2023-000013.csv Last Modified: 2023-11-09T05:04:31+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-10-2023-000027.csv Last Modified: 2023-11-10T05:04:32+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-11-2023-000336.csv Last Modified: 2023-11-11T05:06:15+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-12-2023-000333.csv Last Modified: 2023-11-12T05:05:53+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-13-2023-000055.csv Last Modified: 2023-11-13T05:03:09+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-14-2023-000045.csv Last Modified: 2023-11-14T05:04:36+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-15-2023-000133.csv Last Modified: 2023-11-15T05:03:53+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-16-2023-000206.csv Last Modified: 2023-11-16T05:03:03+00:00
+2024-10-25 12:47:05,999 - INFO - File: FirstCreditPaymentByItem/FirstCreditPaymentByItem-11-17-2023-000030.csv Last Modified: 2023-11-17T05:04:30+00:00
+2024-10-25 12:47:06,006 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-10-2024-001337.csv
+2024-10-25 12:47:06,006 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-10-2024-001337.csv...
+2024-10-25 12:47:06,575 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-10-2024-001337.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968415&Signature=F5YLRXBy5befNR1oY%2FH%2Flcw8c%2B4%3D...
+2024-10-25 12:47:27,007 - INFO - File downloaded: FirstCreditPaymentByItem-08-10-2024-001337.csv
+2024-10-25 12:47:27,008 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-11-2024-000026.csv
+2024-10-25 12:47:27,008 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-11-2024-000026.csv...
+2024-10-25 12:47:27,393 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-11-2024-000026.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968436&Signature=iyjL4ibic5rUMvLOuzhBuscqcTY%3D...
+2024-10-25 12:47:50,466 - INFO - File downloaded: FirstCreditPaymentByItem-08-11-2024-000026.csv
+2024-10-25 12:47:50,467 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-12-2024-000233.csv
+2024-10-25 12:47:50,467 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-12-2024-000233.csv...
+2024-10-25 12:47:50,918 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-12-2024-000233.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968460&Signature=Qslm%2FFpsJR0yu9%2FvVKrYm8psenM%3D...
+2024-10-25 12:48:22,053 - INFO - File downloaded: FirstCreditPaymentByItem-08-12-2024-000233.csv
+2024-10-25 12:48:22,061 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-13-2024-000124.csv
+2024-10-25 12:48:22,061 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-13-2024-000124.csv...
+2024-10-25 12:48:23,379 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-13-2024-000124.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968491&Signature=LXz0%2FgzNG03pv0cq4lbDXL0eKaM%3D...
+2024-10-25 12:48:27,671 - INFO - File downloaded: FirstCreditPaymentByItem-08-13-2024-000124.csv
+2024-10-25 12:48:27,671 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-14-2024-000843.csv
+2024-10-25 12:48:27,671 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-14-2024-000843.csv...
+2024-10-25 12:48:29,101 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-14-2024-000843.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968497&Signature=LHXeMIwxj13u0PqfI80BsxgCNqI%3D...
+2024-10-25 12:48:32,118 - INFO - File downloaded: FirstCreditPaymentByItem-08-14-2024-000843.csv
+2024-10-25 12:48:32,118 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-15-2024-001049.csv
+2024-10-25 12:48:32,118 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-15-2024-001049.csv...
+2024-10-25 12:48:32,521 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-15-2024-001049.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968501&Signature=PdFJscQgHRP7vKAZt9PeuM6MNJA%3D...
+2024-10-25 12:48:35,125 - INFO - File downloaded: FirstCreditPaymentByItem-08-15-2024-001049.csv
+2024-10-25 12:48:35,125 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-16-2024-001210.csv
+2024-10-25 12:48:35,125 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-16-2024-001210.csv...
+2024-10-25 12:48:35,526 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-16-2024-001210.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968504&Signature=s2%2FnUXmYVv7%2F54xmxENUoB1XK94%3D...
+2024-10-25 12:48:41,774 - INFO - File downloaded: FirstCreditPaymentByItem-08-16-2024-001210.csv
+2024-10-25 12:48:41,775 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-17-2024-000003.csv
+2024-10-25 12:48:41,775 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-17-2024-000003.csv...
+2024-10-25 12:48:42,234 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-17-2024-000003.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968511&Signature=wN9TDkiwUmlrMNBIwjRmGZupnbM%3D...
+2024-10-25 12:49:14,813 - INFO - File downloaded: FirstCreditPaymentByItem-08-17-2024-000003.csv
+2024-10-25 12:49:14,814 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-18-2024-000009.csv
+2024-10-25 12:49:14,814 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-18-2024-000009.csv...
+2024-10-25 12:49:15,181 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-18-2024-000009.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968544&Signature=73gsBCVC33BxwnAjjahReYe0u%2BE%3D...
+2024-10-25 12:49:20,061 - INFO - File downloaded: FirstCreditPaymentByItem-08-18-2024-000009.csv
+2024-10-25 12:49:20,061 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-19-2024-000043.csv
+2024-10-25 12:49:20,061 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-19-2024-000043.csv...
+2024-10-25 12:49:20,408 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-19-2024-000043.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968549&Signature=wCDIcm3nurpUa2AUuv3pmVZXQfQ%3D...
+2024-10-25 12:49:38,486 - INFO - File downloaded: FirstCreditPaymentByItem-08-19-2024-000043.csv
+2024-10-25 12:49:38,486 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-20-2024-000021.csv
+2024-10-25 12:49:38,486 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-20-2024-000021.csv...
+2024-10-25 12:49:38,958 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-20-2024-000021.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968568&Signature=eThsBCK64ekRFsge%2Bf7ThIetc68%3D...
+2024-10-25 12:49:47,715 - INFO - File downloaded: FirstCreditPaymentByItem-08-20-2024-000021.csv
+2024-10-25 12:49:47,715 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-21-2024-002047.csv
+2024-10-25 12:49:47,716 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-21-2024-002047.csv...
+2024-10-25 12:49:48,135 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-21-2024-002047.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968577&Signature=wRCH5IWVRxjnCNggz52s0uB9pFU%3D...
+2024-10-25 12:49:51,719 - INFO - File downloaded: FirstCreditPaymentByItem-08-21-2024-002047.csv
+2024-10-25 12:49:51,720 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-22-2024-002152.csv
+2024-10-25 12:49:51,720 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-22-2024-002152.csv...
+2024-10-25 12:49:53,232 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-22-2024-002152.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968581&Signature=F5lC4vCT5kCsVN5blJOhZ1pDg7E%3D...
+2024-10-25 12:49:57,019 - INFO - File downloaded: FirstCreditPaymentByItem-08-22-2024-002152.csv
+2024-10-25 12:49:57,019 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-23-2024-002213.csv
+2024-10-25 12:49:57,019 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-23-2024-002213.csv...
+2024-10-25 12:49:57,469 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-23-2024-002213.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968586&Signature=8Ueq%2Bh41Jj8bk3fn1XkmGM3tzgc%3D...
+2024-10-25 12:50:00,347 - INFO - File downloaded: FirstCreditPaymentByItem-08-23-2024-002213.csv
+2024-10-25 12:50:00,348 - INFO - Processing file for date 08-10-2024: FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-24-2024-000038.csv
+2024-10-25 12:50:00,348 - INFO - Generating download URL for FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-24-2024-000038.csv...
+2024-10-25 12:50:00,714 - INFO - Downloading file from https://moso-dx.s3.amazonaws.com/goldsgym/outgoing/FirstCreditPaymentByItem/FirstCreditPaymentByItem-08-24-2024-000038.csv?AWSAccessKeyId=AKIAUYNXIYKMKGUN4NHZ&Expires=1729968589&Signature=4PLRzzSlKTvkv91ADSXMvt12QtI%3D...
